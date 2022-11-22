@@ -1,6 +1,6 @@
 # Project-2-Late-Night-Coders
 
-## Calorie Tracker
+## My Fit Nutrition 
 
 ### Description
 
